@@ -1,0 +1,51 @@
+id_medicamento,nombre,precio,cantidad,fecha_caducidad,marca,precio_individual,stock,requiere_receta
+M_1,Paracetamol 500mg,120.0,500ml,2025-12-31,Tafirol,30.0,98,False
+M_2,Ibuprofeno 400mg,150.0,250ml,2025-11-30,Actron,45.0,100,False
+M_3,Amoxicilina 500mg,280.0,100 caps,2025-10-15,Amoxidal,28.0,99,True
+M_4,Dextrometorfano,95.0,100ml,2025-09-20,Robitussin,19.0,100,False
+M_5,Loratadina 10mg,110.0,30 tabs,2026-01-10,Clarityne,11.0,100,False
+M_6,Omeprazol 20mg,165.0,30 caps,2025-08-25,Prilosec,16.5,100,False
+M_7,Metformina 500mg,140.0,60 tabs,2025-07-30,Glucophage,14.0,100,False
+M_8,Atorvastatina 10mg,190.0,30 tabs,2025-11-05,Lipitor,19.0,100,False
+M_9,Lisinopril 10mg,170.0,30 tabs,2025-10-12,Prinivil,17.0,100,False
+M_10,Simvastatina 20mg,185.0,30 tabs,2026-02-18,Zocor,18.5,99,False
+M_11,Fluconazol 150mg,220.0,2 caps,2025-09-08,Diflucan,110.0,97,True
+M_12,Cetirizina 10mg,100.0,30 tabs,2025-12-22,Piriteze,10.0,99,False
+M_13,Ranitidina 150mg,130.0,30 tabs,2025-08-14,Zantac,13.0,100,False
+M_14,Diclofenaco 50mg,115.0,20 tabs,2025-10-30,Voltaren,11.5,100,False
+M_15,Naproxeno 500mg,145.0,20 tabs,2025-11-17,Aleve,14.5,98,False
+M_16,Ketorolaco 10mg,140.0,20 tabs,2025-09-25,Toradol,14.0,100,False
+M_17,Piroxicam 20mg,155.0,30 caps,2025-10-08,Feldene,15.5,100,False
+M_18,Meloxicam 7.5mg,160.0,30 tabs,2025-11-11,Mobic,16.0,100,False
+M_19,Etoricoxib 90mg,175.0,30 tabs,2025-12-03,Arcoxia,17.5,100,False
+M_20,Ciprofloxacino 500mg,195.0,10 tabs,2025-08-19,Cipro,19.5,100,False
+M_21,Azitromicina 500mg,210.0,6 tabs,2025-09-27,Zithromax,35.0,100,False
+M_22,Metronidazol 500mg,125.0,20 tabs,2025-10-05,Flagyl,12.5,100,False
+M_23,Ceftriaxona 1g,250.0,1 vial,2025-07-22,Rocephin,250.0,100,False
+M_24,Penicilina V 500mg,105.0,30 tabs,2025-11-09,Penicillin,10.5,100,False
+M_25,Trimetoprima 160mg,135.0,20 tabs,2025-09-14,Bactrim,13.5,100,False
+M_26,Vitamina C 500mg,85.0,30 tabs,2026-03-01,Caltrate,8.5,100,False
+M_27,Vitamina D3 1000IU,95.0,60 caps,2026-01-15,Nature Made,9.5,100,False
+M_28,Vitamina B12 1000mcg,110.0,30 tabs,2025-12-10,Cyanocobalamin,11.0,100,False
+M_29,Acido Folico 400mcg,75.0,30 tabs,2026-02-28,Folic Acid,7.5,100,False
+M_30,Hierro 325mg,120.0,30 tabs,2025-11-20,Ferrous,12.0,100,False
+M_31,Calcio 600mg,130.0,60 tabs,2026-01-05,Calcium,13.0,100,False
+M_32,Zinc 50mg,105.0,30 tabs,2025-10-17,Zinc Pro,10.5,100,False
+M_33,Magnesio 400mg,115.0,30 tabs,2025-11-22,Magnesium,11.5,100,False
+M_34,Potasio 99mg,95.0,30 tabs,2025-09-30,Potassium,9.5,100,False
+M_35,Ácido Acetilsalicílico 500mg,90.0,20 tabs,2025-12-05,Aspirina,9.0,100,False
+M_36,Codeína 30mg,140.0,30 tabs,2025-10-11,Codeína,14.0,100,True
+M_37,Tramadol 50mg,165.0,20 tabs,2025-11-08,Ultram,16.5,100,True
+M_38,Morfina 10mg,200.0,30 tabs,2025-08-16,Morphine,20.0,100,True
+M_39,Gabapentina 300mg,175.0,30 caps,2025-12-12,Neurontin,17.5,100,False
+M_40,Pregabalina 150mg,190.0,14 caps,2025-10-24,Lyrica,19.0,100,True
+M_41,Levotiroxina 75mcg,145.0,30 tabs,2025-11-13,Synthroid,14.5,100,False
+M_42,Hidroclorotiazida 25mg,125.0,30 tabs,2025-09-19,Hydrodiuril,12.5,100,False
+M_43,Furosemida 40mg,135.0,30 tabs,2025-10-26,Lasix,13.5,100,False
+M_44,Enalapril 10mg,155.0,30 tabs,2025-11-30,Vasotec,15.5,100,False
+M_45,Propranolol 40mg,145.0,30 tabs,2025-12-08,Inderal,14.5,100,False
+M_46,Verapamilo 80mg,165.0,30 tabs,2025-10-09,Calan,16.5,100,False
+M_47,Diltiazem 30mg,150.0,30 tabs,2025-11-14,Cardizem,15.0,100,False
+M_48,Amlodipina 5mg,160.0,30 tabs,2025-12-20,Norvasc,16.0,100,False
+M_49,Enalapril 20mg,170.0,30 tabs,2025-09-11,Vasotec,17.0,100,False
+M_50,Clorpromazina 100mg,180.0,30 tabs,2025-10-28,Thorazine,18.0,100,False
